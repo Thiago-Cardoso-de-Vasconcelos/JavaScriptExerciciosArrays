@@ -1,1 +1,1 @@
-let nomes = ["thiago", "lucas"];
+let nomes = ["thiago", "lucas","diego"];
